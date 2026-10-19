@@ -1,0 +1,1 @@
+# FreeSync HDR Fix
